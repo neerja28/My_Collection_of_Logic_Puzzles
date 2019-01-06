@@ -1,0 +1,12 @@
+Question:
+
+You have a 100 coins laying flat on a table, each with a head side and a tail side. 
+10 of them are heads up, 90 are tails up. You can't feel, see or in any other way find out 
+which side is up. Split the coins into two piles such that there are the same number of 
+heads in each pile.
+
+Solution:
+
+Split into two piles, one with 90 coins and the other with 10. Flip over every coin in the pile with 10 coins.
+
+Source: https://www.youtube.com/watch?v=M-m9xVF6428
